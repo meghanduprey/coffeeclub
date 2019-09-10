@@ -15,8 +15,8 @@ header {
   height: 40px;
   margin: 0 0 10px 0;
   padding: 0;
-  background: #0055DD;
-  color: white;
+  background-color: #939ebf;
+  color: #fff;
 }
 
 header h1 {
@@ -57,8 +57,8 @@ footer {
   height: 20px;
   margin: 0 0 10px 0;
   padding: 10px 20px;
-  background: #0055DD;
-  color: white;
+  background-color: #939ebf;
+  color: #fff;
 }
 
 /* Actions */
@@ -66,7 +66,6 @@ footer {
 .actions {
   margin-bottom: 1em;
 }
-
 
 /* Lists */
 
@@ -84,8 +83,8 @@ table.list tr td {
 }
 
 table.list tr th {
-  border: 1px solid #0055DD;
-  background: #0055DD;
+  border: 1px solid #939ebf;
+  background: #939ebf;
   color: white;
   text-align: left;
 }
