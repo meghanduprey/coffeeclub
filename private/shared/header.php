@@ -18,6 +18,6 @@
 
     <nav>
       <ul>
-        <li><a href="<?php echo url_for('/members/index.php'); ?>">Menu</a></li>
+        <li><a href="<?php echo url_for('/index.php'); ?>">Menu</a></li>
       </ul>
     </nav>
